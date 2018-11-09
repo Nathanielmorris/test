@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width-device-width">
+<meta name="description" content="Morris Precision is a small machine shop in Dayton Ohio specializing in Jig Grinding.">
+	<meta name="Keywords" content="jig grinding, grinding, morris precision, dayton grinding, dayton jig, dayton jig grinding, ohio jig grinding, precision jig, precision jig grinding, dayton precision">
+	<meta name="author" content="Tyler Morris">
+<title>Morris Precision LLC | Welcome</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header>
+	<div class="container">
+		<div id="branding">
+		<h1><span class="highlight">Morris Precision</span> LLC</h1>
+		</div>
+		<nav>
+		<ul>
+			<li class="current"><a href="Index.html">Home</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="gallery.html">Project Gallery</a></li>
+			<li><a href="aboutme.html">About Me</a></li>
+			<li><a href="quote.html">Contact / Request A Quote</a></li>
+			</ul>
+		</nav>
+		</div>
+	</header>
+	<section id="showcase">
+	<div class="container">
+		<h1>Precision Jig Grinding</h1>
+		<p>Morris Precision is a small machine shop in Dayton Ohio specializing in Jig Grinding. With goals of building strong customer relationships and focusing on meeting our delivery dates. From single parts to small production jobs at Morris Precision, no job is too big or too small. Contact us today for a quote.</p>
+		</div>
+	</section>
+	
+	<section id="newsletter">
+	<div class="container">
+		<h1>See our services we offer!</h1>
+		<form>
+			<button type="submit" class="button_1" href="services.html">Our Services</button>
+		</form>
+		</div>
+	</section>
+	
+	<section id="boxes">
+	<div class="container">
+		<div class="box"><img src="images/OurMachines.png" alt="/images/OurMachines.png">
+			<h3>Our Machines</h3>
+			<p>We currently have our Moore Jig Grinder, but we're looking to add more machines in the future</p>
+	  </div>
+		<div class="box">
+		  <img src="images/OurGoal.png" alt="/images/OurMachines.png">
+			<h3>Our Goal</h3>
+			<p>Provide you with the quality product you expect our of Morris Precision.</p>
+	  </div>
+		<div class="box">
+		  <img src="images/YourDesign.png" alt="/images/OurMachines.png">
+			<h3>Your Design</h3>
+			<p>We can provide an accurate hole placement up to 1/32"</p>
+	  </div>
+	  </div>
+		<div class="sitedescription">
+			<p>Morris Precision is dedicated to providing quality service with a quick turn around time. We have over 10 years of expereince in machining and 3 in jig grinding, all at competitive prices! We hope you'll choose us for your jig grinding needs, please look around our website to make sure we're the right choice for you! If you think we are <a href="quote.html">request a quote!</a></p>
+			
+		</div>
+		
+	</section>
+	<div id="bottomimg">
+		</div>
+		
+	<footer>
+	<p>Morris Precision LLC, Copyright &copy; 2019</p>
+		<ul id="footernav">
+			<li><a href="Index.html">Home</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="gallery.html">Project Gallery</a></li>
+			<li><a href="aboutme.html">About Me</a></li>
+			<li><a href="quote.html">Contact / Request A Quote</a></li>
+			</ul>
+	</footer>
+</body>
+</html>
